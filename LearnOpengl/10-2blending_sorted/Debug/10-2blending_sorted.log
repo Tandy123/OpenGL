@@ -1,12 +1,1 @@
-﻿  main.cpp
-h:\github\opengl\learnopengl\10-2blending_sorted\shader.h(10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(200): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(326): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(327): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(331): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(332): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(334): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(335): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-2blending_sorted\main.cpp(342): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-  10-2blending_sorted.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\10-2blending_sorted.exe
-  10-2blending_sorted.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\10-2blending_sorted.pdb (Full PDB)
+﻿

@@ -1,12 +1,1 @@
-﻿  main.cpp
-h:\github\opengl\learnopengl\10-1blending_discard\shader.h(10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(197): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(315): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(316): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(320): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(321): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(323): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(324): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\10-1blending_discard\main.cpp(331): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-  10-1blending_discard.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\10-1blending_discard.exe
-  10-1blending_discard.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\10-1blending_discard.pdb (Full PDB)
+﻿
