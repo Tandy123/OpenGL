@@ -1,12 +1,2 @@
-﻿  main.cpp
-h:\github\opengl\learnopengl\11-1face_culling\shader.h(10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(211): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(337): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(338): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(342): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(343): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(345): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(346): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\11-1face_culling\main.cpp(353): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-  11-1face_culling.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\11-1face_culling.exe
+﻿  11-1face_culling.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\11-1face_culling.exe
   11-1face_culling.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\11-1face_culling.pdb (Full PDB)

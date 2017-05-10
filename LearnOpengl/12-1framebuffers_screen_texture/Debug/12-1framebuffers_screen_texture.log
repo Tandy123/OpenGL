@@ -1,0 +1,12 @@
+﻿  main.cpp
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\shader.h(10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(376): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(377): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(381): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(382): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(384): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(385): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(392): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  12-1framebuffers_screen_texture.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\12-1framebuffers_screen_texture.exe
+  12-1framebuffers_screen_texture.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\12-1framebuffers_screen_texture.pdb (Full PDB)
