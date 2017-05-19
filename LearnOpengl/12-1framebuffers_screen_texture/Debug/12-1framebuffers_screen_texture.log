@@ -1,12 +1,34 @@
 ﻿  main.cpp
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\shader.h(10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(376): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(377): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(381): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(382): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(384): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(385): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-h:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(392): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-  12-1framebuffers_screen_texture.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\12-1framebuffers_screen_texture.exe
-  12-1framebuffers_screen_texture.vcxproj -> H:\github\OpenGL\LearnOpengl\Debug\12-1framebuffers_screen_texture.pdb (Full PDB)
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\shader.h(10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(376): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(377): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(381): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(382): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(384): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(385): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\github\opengl\learnopengl\12-1framebuffers_screen_texture\main.cpp(392): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  LINK : 没有找到 D:\github\OpenGL\LearnOpengl\Debug\12-1framebuffers_screen_texture.exe 或上一个增量链接没有生成它；正在执行完全链接
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(context.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(init.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(input.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(monitor.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(vulkan.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(window.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_init.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_joystick.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_monitor.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_time.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_tls.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_tls.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_window.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(wgl_context.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(egl_context.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(osmesa_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(osmesa_context.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“SOIL.lib(image_DXT.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“SOIL.lib(image_helper.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“SOIL.lib(SOIL.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“SOIL.lib(stb_image_aug.obj)”或在“D:\github\OpenGL\LearnOpengl\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  12-1framebuffers_screen_texture.vcxproj -> D:\github\OpenGL\LearnOpengl\Debug\12-1framebuffers_screen_texture.exe
+  12-1framebuffers_screen_texture.vcxproj -> D:\github\OpenGL\LearnOpengl\Debug\12-1framebuffers_screen_texture.pdb (Full PDB)
